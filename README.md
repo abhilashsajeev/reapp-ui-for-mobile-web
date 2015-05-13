@@ -7,7 +7,12 @@ enter
 ```
 npm install
 ```
-enter 
-```gulp```
+gulp 
+```
+gulp
+```
 then enter
-``` node server.js```
+
+```
+ node server.js
+```
